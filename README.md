@@ -175,6 +175,10 @@ const response = await fetch(
 );
 ```
 
+![Tela inicial do SmartMeal AI](./public/preview/smartmeal-home.jpg)
+![Tela de geração do plano alimentar](./public/preview/smartmeal-generator.jpg)
+
+
 ---
 
 ## Observação importante
