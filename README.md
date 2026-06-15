@@ -165,14 +165,6 @@ const response = await fetch(
 
 ---
 
-## Como apresentar o projeto
-
-Você pode explicar assim:
-
-> O SmartMeal AI é um MVP feito em Next.js que usa uma API real de Inteligência Artificial para gerar dietas personalizadas. O usuário informa peso, altura, idade, nível de atividade, objetivo e preferências. O sistema calcula uma estimativa inicial de calorias e macronutrientes, envia esses dados para a Gemini API por uma rota segura do Next.js e recebe um plano alimentar estruturado em JSON. Depois, o plano é exibido no site e pode ser exportado em PDF.
-
----
-
 ## Observação importante
 
 Mesmo usando IA, o projeto não deve ser apresentado como substituto de nutricionista. O ideal é dizer que ele é uma ferramenta de apoio educacional para montar uma sugestão inicial de alimentação.
